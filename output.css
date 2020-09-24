@@ -21025,6 +21025,19 @@ video {
           animation: bounce 1s infinite;
 }
 
+h2 {
+  font-family: 'Poppins', sans-serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+a button {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
