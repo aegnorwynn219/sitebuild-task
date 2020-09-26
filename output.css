@@ -21025,6 +21025,30 @@ video {
           animation: bounce 1s infinite;
 }
 
+body {
+  font-size: 18px;
+}
+
+.bg_color_pink {
+  background-color: hsl(322, 100%, 66%);
+}
+
+.color_pale_cyan {
+  color: hsl(193, 100%, 96%);
+}
+
+.bg_color_dark_cyan {
+  background-color: hsl(192, 100%, 9%);
+}
+
+.color_dark_cyan {
+  color: hsl(192, 100%, 9%);
+}
+
+.color_grayish_blue {
+  color: hsl(208, 11%, 55%);
+}
+
 h2 {
   font-family: 'Poppins', sans-serif;
 }
